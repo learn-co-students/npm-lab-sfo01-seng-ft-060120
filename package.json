@@ -1,0 +1,22 @@
+{
+  "name": "npm-lab-sfo01-seng-ft-060120",
+  "version": "1.0.0",
+  "description": "## Overview",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo 'Hello World!'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iona-b/npm-lab-sfo01-seng-ft-060120.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iona-b/npm-lab-sfo01-seng-ft-060120/issues"
+  },
+  "homepage": "https://github.com/iona-b/npm-lab-sfo01-seng-ft-060120#readme",
+  "dependencies": {
+    "moment": "^2.27.0"
+  }
+}
