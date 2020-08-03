@@ -1,0 +1,22 @@
+{
+  "name": "color-clock",
+  "version": "1.0.0",
+  "description": "'color clock json'",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo 'Hello World!'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Tisdale511/npm-lab-sfo01-seng-ft-060120.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tisdale511/npm-lab-sfo01-seng-ft-060120/issues"
+  },
+  "homepage": "https://github.com/Tisdale511/npm-lab-sfo01-seng-ft-060120#readme",
+  "dependencies": {
+    "moment": "^2.27.0"
+  }
+}
